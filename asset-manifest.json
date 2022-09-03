@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Page-Transitions-React/static/css/main.40091b34.css",
+    "main.js": "/Page-Transitions-React/static/js/main.9d95f9cb.js",
+    "index.html": "/Page-Transitions-React/index.html",
+    "main.40091b34.css.map": "/Page-Transitions-React/static/css/main.40091b34.css.map",
+    "main.9d95f9cb.js.map": "/Page-Transitions-React/static/js/main.9d95f9cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40091b34.css",
+    "static/js/main.9d95f9cb.js"
+  ]
+}
